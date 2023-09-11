@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ridhika Shekhawat</h1>
+<h1 align="center">Hi ✨, I'm Ridhika Shekhawat</h1>
 <h3 align="center">A passionate Student Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridhikas&label=Profile%20views&color=0e75b6&style=flat" alt="ridhika07" /> </p>
@@ -21,7 +21,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridhikas&" alt="ridhika07" /></p>
 
 # 💫 About Me:
-🌱 I’m currently learning Web Development and it's frameworks<br>⚡ Fun fact I like editing and working on canva to create new templates 😂
+🌱 I’m currently learning Web Development and it's frameworks<br>⚡ Fun fact I like editing and working on canva to create new templates 
 
 
 ## 🌐 Socials:
